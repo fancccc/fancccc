@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ## Doing
 - [肾结石感染性识别](https://github.com/fancccc/KidneyStoneSC) 
 - [肺腺癌分子分型](https://github.com/fancccc/LungCancerDC)
-- [OHH](https://github.com/fancccc/ohh)
 
 ## GitHub Stats
 ![你的GitHub Stats](https://github-readme-stats.vercel.app/api?username=fancccc&show_icons=true)
+
+## My Record
+- [A record ohh](https://github.com/fancccc/ohh)
