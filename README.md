@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Deep Learning.
-## 技能
+## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-## 精选项目
+## Doing
 - [肾结石感染性识别](https://github.com/fancccc/KidneyStoneSC) 
 - [肺腺癌分子分型](https://github.com/fancccc/LungCancerDC)
+- [OHH](https://github.com/fancccc/ohh)
 
-## GitHub 统计信息
+## GitHub Stats
 ![你的GitHub Stats](https://github-readme-stats.vercel.app/api?username=fancccc&show_icons=true)
