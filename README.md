@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently learning Deep Learning.
 -->
+<!--
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+-->
 ## Doing
 - [肺结节检测与分型](https://github.com/fancccc/CM-DAC)
 - [肺腺癌分子分型](https://github.com/fancccc/LungCancerDC)
